@@ -1,0 +1,9 @@
+
+
+var a = prompt ("please enter first number", 0)
+var b = prompt ("please enter second number", 0)
+
+if (a == b)
+  console.log ("equal")
+else 
+  console.log ("not equal")
